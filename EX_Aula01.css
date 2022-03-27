@@ -1,0 +1,25 @@
+.div_um{
+    background-color: rgb(122, 59, 59);
+    width: 110px;
+    height: 200px;
+}
+
+.div_dois{
+    background-color: rgb(12, 114, 54);
+    width: 1200px;
+    height: 20px;
+    
+}
+
+.div_tres{
+    background-color: rgb(207, 45, 167);
+    width: 100px;
+    height: 200px;
+    font-family: 'Arial Narrow';
+}
+
+.div_quatro{
+    background-color: rgb(238, 230, 113);
+    width: 50px;
+    height: 218px;
+}
